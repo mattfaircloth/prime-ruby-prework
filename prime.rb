@@ -11,7 +11,7 @@ def prime?(number)
         count_start += 1
       else
         return false
-      end
-      end
-      return true
+    end
+  end
+    return true
 end
